@@ -3,7 +3,7 @@ import java.util.*;
 public class Bai6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String a = sc.next();
+        String a = sc.nextLine();
         int i = 0;
         while(i<a.length())
             i++;
